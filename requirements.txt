@@ -1,0 +1,5 @@
+flask==1.1.2
+tensorflow-cpu
+numpy==1.19.5
+opencv-python
+streamlit
